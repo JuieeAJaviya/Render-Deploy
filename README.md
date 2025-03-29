@@ -2,6 +2,8 @@
 
 🚀 **Deployed Project:** Your Student Placement Prediction system is now live! This project predicts whether a student is "Placed" or "Not Placed" based on their academic and skill-based parameters.
 
+**Deployed On Render [(Click To See)](https://render-deploy-1-jtgz.onrender.com)**
+
 ---
 
 ## 🎯 **Project Overview**
